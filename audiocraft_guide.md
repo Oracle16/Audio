@@ -1,5 +1,5 @@
 ---
-title: Step-by-Step Guide to Running AudioCraft
+SFX AI: Step-by-Step Guide to Running AudioCraft
 ---
 
 # Step-by-Step Guide to Running AudioCraft on MacOS, Windows, or Linux
