@@ -53,6 +53,12 @@ Before installing AudioCraft, ensure that you meet the following system requirem
      conda install 'ffmpeg<5' -c conda-forge
      ```
 
+5. **Resolve "Python was not found" Issue** (For Windows Users):
+- If you encounter the "Python was not found" error, follow these steps to resolve it:
+- Download the latest Python installer for Windows from the official Python website (https://www.python.org/downloads/windows/).
+- Run the downloaded installer and ensure that you check the box that says "Add Python x.x to PATH" during installation.
+- Verify the Python installation by running `python --version` in the Command Prompt.
+
 ## Running MusicGen
 
 Now that you have AudioCraft installed, you can use MusicGen for audio generation. MusicGen provides pretrained models for generating music from text descriptions.
