@@ -120,5 +120,3 @@ AudioGen is a straightforward API for generating sound from text descriptions. F
    for idx, one_wav in enumerate(wav):
        audio_write(f'{idx}', one_wav.cpu(), model.sample_rate, strategy="loudness", loudness_compressor=True)
    ```
-
-With these steps, your Markdown file should contain the guide as described, and you can enable GitHub Pages to render it as a webpage in your GitHub repository.
